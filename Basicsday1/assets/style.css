@@ -1,0 +1,28 @@
+r{
+    background-color: red;
+    border-radius: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px solid green  
+  }
+
+  #topHeader{
+      border: 1px solid blue;
+      text-align: center;
+
+  }
+
+  #logo{
+      border: 2px solid black
+  }
+
+  #mainNavigation > ul{
+      padding: 0
+  }
+
+  li{
+      list-style-type: none;
+      border: 1px solid black
+  }
+
+  
+</style>
